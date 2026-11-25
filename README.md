@@ -45,7 +45,7 @@ $$\mathcal{L}(\theta) = \underbrace{\lVert u_\theta - u_{\text{data}} \rVert^2}_
 
 $$W_q = \operatorname{round}\!\left(\tfrac{W}{s}\right) + z \quad\Rightarrow\quad \text{32 bits} \to \text{8 bits}$$
 
-🔍 Currently building: **[Lightweight physics - informed neural networks for embedded systems]**
+🔍 Currently building: **Lightweight physics - informed neural networks for embedded systems**
 
 ---
 
@@ -61,7 +61,7 @@ $$W_q = \operatorname{round}\!\left(\tfrac{W}{s}\right) + z \quad\Rightarrow\qua
 
 $$C = B \log_2\!\left(1 + \tfrac{S}{N}\right) \qquad \text{(Shannon: the speed limit of every link)}$$
 
-🔍 Currently building: **[Automated network performance monitoring and optimization for high spped optical networks]**
+🔍 Currently building: **Automated network performance monitoring and optimization for high spped optical networks**
 
 ---
 
@@ -96,16 +96,13 @@ class Gaitsiwe:
 
 ### ⚡ `toolchain.cfg`
 
-> You haven't told me your exact languages and tools yet. These are guesses for your fields, so delete any you don't use.
-
 ![Python](https://img.shields.io/badge/Python-07060F?style=for-the-badge&logo=python&logoColor=00F0FF)
 ![C](https://img.shields.io/badge/C-07060F?style=for-the-badge&logo=c&logoColor=B44CFF)
 ![C++](https://img.shields.io/badge/C++-07060F?style=for-the-badge&logo=cplusplus&logoColor=00F0FF)
 ![Bash](https://img.shields.io/badge/Bash-07060F?style=for-the-badge&logo=gnubash&logoColor=B44CFF)
 ![MATLAB](https://img.shields.io/badge/MATLAB-07060F?style=for-the-badge&logo=mathworks&logoColor=00F0FF)
-![LaTeX](https://img.shields.io/badge/LaTeX-07060F?style=for-the-badge&logo=latex&logoColor=B44CFF)
 ![PyTorch](https://img.shields.io/badge/PyTorch-07060F?style=for-the-badge&logo=pytorch&logoColor=00F0FF)
-![TensorFlow Lite](https://img.shields.io/badge/TF_Lite-07060F?style=for-the-badge&logo=tensorflow&logoColor=B44CFF)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=B44CFF)
 ![NumPy](https://img.shields.io/badge/NumPy-07060F?style=for-the-badge&logo=numpy&logoColor=00F0FF)
 ![Ansible](https://img.shields.io/badge/Ansible-07060F?style=for-the-badge&logo=ansible&logoColor=B44CFF)
 ![Docker](https://img.shields.io/badge/Docker-07060F?style=for-the-badge&logo=docker&logoColor=00F0FF)
