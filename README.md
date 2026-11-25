@@ -102,7 +102,7 @@ class Gaitsiwe:
 ![Bash](https://img.shields.io/badge/Bash-07060F?style=for-the-badge&logo=gnubash&logoColor=B44CFF)
 ![MATLAB](https://img.shields.io/badge/MATLAB-07060F?style=for-the-badge&logo=mathworks&logoColor=00F0FF)
 ![PyTorch](https://img.shields.io/badge/PyTorch-07060F?style=for-the-badge&logo=pytorch&logoColor=00F0FF)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=B44CFF)
+![Java](https://img.shields.io/badge/Java-07060F?style=for-the-badge&logo=openjdk&logoColor=B44CFF)
 ![NumPy](https://img.shields.io/badge/NumPy-07060F?style=for-the-badge&logo=numpy&logoColor=00F0FF)
 ![Ansible](https://img.shields.io/badge/Ansible-07060F?style=for-the-badge&logo=ansible&logoColor=B44CFF)
 ![Docker](https://img.shields.io/badge/Docker-07060F?style=for-the-badge&logo=docker&logoColor=00F0FF)
