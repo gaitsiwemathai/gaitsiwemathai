@@ -45,7 +45,7 @@ $$\mathcal{L}(\theta) = \underbrace{\lVert u_\theta - u_{\text{data}} \rVert^2}_
 
 $$W_q = \operatorname{round}\!\left(\tfrac{W}{s}\right) + z \quad\Rightarrow\quad \text{32 bits} \to \text{8 bits}$$
 
-🔍 Currently building: **[your ML project]**
+🔍 Currently building: **[Lightweight physics - informed neural networks for embedded systems]**
 
 ---
 
@@ -61,7 +61,7 @@ $$W_q = \operatorname{round}\!\left(\tfrac{W}{s}\right) + z \quad\Rightarrow\qua
 
 $$C = B \log_2\!\left(1 + \tfrac{S}{N}\right) \qquad \text{(Shannon: the speed limit of every link)}$$
 
-🔍 Currently building: **[your networking project]**
+🔍 Currently building: **[Automated network performance monitoring and optimization for high spped optical networks]**
 
 ---
 
